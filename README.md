@@ -30,9 +30,10 @@ Proyek Laravel pertama: instalasi lewat Composer, koneksi MySQL via `.env`, tiga
 
 ### Bukti screenshot
 
-![Welcome bawaan Laravel](docs/screenshots/01-welcome-default.png)
-![Welcome custom](docs/screenshots/02-welcome-custom.png)
-![Tabel di phpMyAdmin](docs/screenshots/03-phpmyadmin-tabel.png)
+welcome bawaan
+![Welcome bawaan Laravel](docs/screenshots/awal.png)
+welcome costom
+![Welcome custom](docs/screenshots/costum.png)
 
 ---
 
